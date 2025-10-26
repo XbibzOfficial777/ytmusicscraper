@@ -1,0 +1,21 @@
+{
+  "name": "yt-music-downloader-app",
+  "version": "1.0.0",
+  "description": "Aplikasi YouTube Music Downloader",
+  "main": "ytmusic.js",
+  "scripts": {
+    "start": "node ytmusic.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "music",
+    "downloader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xbibzlibrary/ytmusicscraper": "^1.0.3",
+    "commander": "^12.0.0"
+  }
+}

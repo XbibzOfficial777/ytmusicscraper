@@ -1,0 +1,12 @@
+src/
+tests/
+examples/
+webpack.config.js
+tsconfig.json
+.eslintrc.js
+.prettierrc
+.gitignore
+.husky/
+.github/
+*.md
+!dist/
