@@ -526,7 +526,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/XbibzOfficial777/@xbibzlibrary/ytmusicscraper.git
+git clone https://github.com/XbibzOfficial777/ytmusicscraper.git
 
 # Install dependencies
 npm install
@@ -584,10 +584,10 @@ This tool is for educational purposes only. Please respect copyright laws and Yo
 <h3>Need Help?</h3>
 
 <p>
-  <a href="https://github.com/XbibzOfficial777/@xbibzlibrary/ytmusicscraper/issues">
+  <a href="https://github.com/XbibzOfficial777/ytmusicscraper/issues">
     <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues">
   </a>
-  <a href="https://github.com/XbibzOfficial777/@xbibzlibrary/ytmusicscraper/discussions">
+  <a href="https://github.com/XbibzOfficial777/ytmusicscraper/discussions">
     <img src="https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github" alt="GitHub Discussions">
   </a>
 </p>
@@ -610,8 +610,8 @@ This tool is for educational purposes only. Please respect copyright laws and Yo
 
 ### 🚀 Happy Downloading! 🎵
 
-[![GitHub stars](https://img.shields.io/github/stars/XbibzOfficial777/@xbibzlibrary/ytmusicscraper?style=social)](https://github.com/XbibzOfficial/@xbibzlibrary/ytmusicscraper/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/XbibzOfficial777/@xbibzlibrary/ytmusicscraper?style=social)](https://github.com/XbibzOfficial/@xbibzlibrary/ytmusicscraper/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/XbibzOfficial777/@xbibzlibrary/ytmusicscraper?style=social)](https://github.com/XbibzOfficial/@xbibzlibrary/ytmusicscraper/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/XbibzOfficial777/ytmusicscraper?style=social)](https://github.com/XbibzOfficial777/ytmusicscraper/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/XbibzOfficial777/ytmusicscraper?style=social)](https://github.com/XbibzOfficial777/ytmusicscraper/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/XbibzOfficial777/ytmusicscraper?style=social)](https://github.com/XbibzOfficial777/ytmusicscraper/watchers)
 
 </div>
